@@ -22,7 +22,7 @@ button:active{
     background-color: #8b0749;
 }
 .overlay-container{
-    background:url('image/banner.jpg.png') ;
+    background:url('banner.jpg.png') ;
     width: 1300px;
     height: 400px;
     background-size: cover;
